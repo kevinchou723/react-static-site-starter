@@ -1,5 +1,7 @@
 import { Link } from "react-router-dom";
 
+// This file will render at / path which will serve as a directory to all the components and views
+
 export default () => {
   return (
     <div className='root-directory'>
