@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "yarn dev",
     "dev": "webpack-dev-server",
-    "build": "NODE_ENV=production node ./scripts/build.js",
-    "deploy": "netlify deploy"
+    "build": "NODE_ENV=production node ./scripts/build.js"
   },
   "author": "",
   "license": "ISC",
