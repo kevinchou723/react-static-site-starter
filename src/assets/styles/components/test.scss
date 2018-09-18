@@ -1,0 +1,15 @@
+.component-test__container {
+  background: red;
+
+  .component-test__title {
+    color: white;
+
+    &--green {
+      color: green;
+    }
+  }
+
+  .component-test__subtitle {
+    color: yellow; 
+  }
+}
