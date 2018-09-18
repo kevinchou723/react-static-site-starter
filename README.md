@@ -6,7 +6,6 @@ Basic configuration for developing static site. Assets are bundled by Webpack. R
 ### Still work in progress, more work and refactor should be done
 
 ### TODOs
-- update babel
 - break webpack config into multiple parts
 - setup auto generating links for /src/views/index (currently need to add manually)
 - setup auto generating routes in app.js (currently need to add manually)
